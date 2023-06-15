@@ -6,21 +6,21 @@ const Navbar = () => {
     <nav className="navbar navbar-expand-md navbar-dark bg-primary main-nav">
       <div className="container-fluid">
         <a href="link" className="nav-logo-text">
-          <h4>Loja Virtual</h4>
+          <h4>FYCatalog</h4>
         </a>
         <button
           className="navbar-toggler"
           type="button"
           data-bs-toggle="collapse"
-          data-bs-target="#loja-virtual-navbar"
-          aria-controls="lojavirtual-navbar"
+          data-bs-target="#fycatalog-navbar"
+          aria-controls="fycatalog-navbar"
           aria-expanded="false"
           aria-label="Toggle navigation"
         >
           <span className="navbar-toggler-icon"></span>
         </button>
 
-        <div className="collapse navbar-collapse" id="loja-virtual-navbar">
+        <div className="collapse navbar-collapse" id="fycatalog-navbar">
           <ul className="navbar-nav offset-md-2 main-menu">
             <li>
               <a href="link" className="active">
